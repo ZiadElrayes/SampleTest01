@@ -1,0 +1,90 @@
+# Question 1 
+
+lists : A non primative datatype used to store different datatypes " Strings - Integars .... etc"
+in a single variables " Not ordered"
+
+
+Tuples : A non primative datatype used to store different datatypes " Strings - Integars .... etc"
+in a single variables " Ordered - Unchangable"
+
+
+# Question 2 
+
+Break : Used to stop a loop & break the process running when loop ends
+
+continue : it breaks a specific part of the loop and continue the loop after breaking the part 
+
+ 
+pass : when executed nothing happens to avoid getting an error
+
+
+
+# Question 3 
+
+Self  :  the instance of the class used to point to the attributes in the class
+
+
+
+# Question 4 
+
+DocString :provide a easy way of associating documentation with Python modules, functions, classes, and methods.
+
+
+# Question 5 
+
+Python Supports multiple inheritance 
+
+class Be :
+       Body
+
+class Be1 :       
+       Body
+
+
+ class Derived (be , be1):
+           Body
+                      
+
+
+
+## Question 2
+
+
+1 - TRUE
+2 - False  "it's not better that structural programming"
+3 - True  "Abstraction : What object do something"
+4 - True
+5 - False " they are 4 pillars"
+
+
+
+## Question 5 
+
+1 - 
+Default 
+
+def __init__(self):
+    # body of the constructor 
+
+
+Paramatized
+   class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+
+
+2 -      class 
+
+class MyCss:
+  x = 5
+
+
+object
+
+object_name = ClassName(arguments)
+
+
+
+Note : Due to time Question 4  2) Not Done
